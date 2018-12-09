@@ -3,6 +3,7 @@ This project was create for Computer Project in ITU.
 First start master with 
   - cd Master 
   - npm start
+  
 Then start as many storage slaves as you want with
   - cd Storage
   - npm start
